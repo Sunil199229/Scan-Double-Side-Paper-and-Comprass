@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ScanImage.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ScannerDeviceID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

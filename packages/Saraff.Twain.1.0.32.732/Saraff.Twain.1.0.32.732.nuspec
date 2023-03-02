@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Saraff.Twain</id>
+    <version>1.0.32.732</version>
+    <title>Saraff.Twain.NET</title>
+    <authors>SARAFF SOFTWARE</authors>
+    <owners>SARAFF SOFTWARE</owners>
+    <licenseUrl>https://www.nuget.org/packages/Saraff.Twain/1.0.32.732/license</licenseUrl>
+    <projectUrl>https://github.com/saraff-9EB1047A4BEB4cef8506B29BA325BD5A/Saraff.Twain.NET</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Allows you to control work of flatbed scanner, web and digital camera and any other TWAIN device from .NET environment. You can use this library in your programs written in any programming languages compatible with .NET technology.</description>
+    <summary />
+    <copyright>Copyright SARAFF 2011</copyright>
+    <tags>TWAIN TWAIN.NET C# .NET FREE Open Source OSS Toolkit VB VB.NET Visual Basic WPF x64 scan</tags>
+  </metadata>
+</package>

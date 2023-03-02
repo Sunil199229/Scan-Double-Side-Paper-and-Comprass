@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.SourceLink.GitHub</id>
+    <version>1.1.1</version>
+    <title>Microsoft.SourceLink.GitHub</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>https://www.nuget.org/packages/Microsoft.SourceLink.GitHub/1.1.1/license</licenseUrl>
+    <projectUrl>https://github.com/dotnet/sourcelink</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/microsoft.sourcelink.github/1.1.1/icon</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Generates source link for GitHub repositories.</description>
+    <summary />
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>MSBuild Tasks GitHub source link</tags>
+    <dependencies>
+      <dependency id="Microsoft.SourceLink.Common" version="1.1.1" />
+      <dependency id="Microsoft.Build.Tasks.Git" version="1.1.1" />
+    </dependencies>
+  </metadata>
+</package>

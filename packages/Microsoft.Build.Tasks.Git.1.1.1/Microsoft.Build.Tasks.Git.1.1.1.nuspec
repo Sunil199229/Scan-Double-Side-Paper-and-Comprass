@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Build.Tasks.Git</id>
+    <version>1.1.1</version>
+    <title>Microsoft.Build.Tasks.Git</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>https://www.nuget.org/packages/Microsoft.Build.Tasks.Git/1.1.1/license</licenseUrl>
+    <projectUrl>https://github.com/dotnet/sourcelink</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/microsoft.build.tasks.git/1.1.1/icon</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>MSBuild tasks providing git repository information.</description>
+    <summary />
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>MSBuild Tasks source control git</tags>
+  </metadata>
+</package>

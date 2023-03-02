@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Ghostscript.NET</id>
+    <version>1.2.3</version>
+    <title>Ghostscript.NET</title>
+    <authors>Josip Habjan</authors>
+    <owners>Josip Habjan</owners>
+    <licenseUrl>https://github.com/jhabjan/Ghostscript.NET/blob/master/COPYING</licenseUrl>
+    <projectUrl>https://github.com/jhabjan/Ghostscript.NET</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/ghostscript.net/1.2.3/icon</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Ghostscript.NET (written in C#) is the most completed managed wrapper library around the Ghostscript library (32-bit &amp; 64-bit), an interpreter for the PostScript language, PDF, related software and documentation.</description>
+    <summary />
+    <releaseNotes>Fixed GhostscriptRasterizer/GhostscriptViewer and Ghostscript v.9.50+ compatibility issues.</releaseNotes>
+    <copyright>Copyright (c) 2013-2021 by Josip Habjan</copyright>
+    <tags>.NET ghostscript pdf converson image</tags>
+  </metadata>
+</package>

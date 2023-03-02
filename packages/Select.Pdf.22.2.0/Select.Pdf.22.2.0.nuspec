@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Select.Pdf</id>
+    <version>22.2.0</version>
+    <title>SelectPdf Library for .NET</title>
+    <authors>SelectPdf</authors>
+    <owners>SelectPdf</owners>
+    <projectUrl>https://selectpdf.com/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/select.pdf/22.2.0/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SelectPdf can be used as a general purpose PDF library in any .NET application. It offers the possibility to create or modify existing documents, add new elements (like text, html, images, shapes), change pdf document security settings, merge or split existing documents and many more.
+
+Select.Pdf also contains a state of the art html to pdf converter that supports the latest html and css versions.
+
+General Features: Generate PDF documents from scratch, Load and modify existing PDF documents, Set PDF document properties, Set PDF document viewer preferences, Set pdf page settings (size, orientation, margins), Set PDF document security settings (user password, permissions), Support for a large variety of pdf elements: text, image, html, shapes, links, bookmarks, etc, Pdf templates to repeat elements in all pages of the generated PDF document, Custom headers and footers for the generated pdf document, Watermarks and stamps, Support for page numbering, Merge pdf documents, Split pdf documents, Extract pages from existing pdf documents, Digital signatures, Compressed pdf documents, Support for pdf open actions (open to a specific page, execute javascript), Modify color space, Support for PDF/A, PDF/X standards, Advanced security settings (RC4 or AES encryption algorithms, up to 256 bits encryption keys), Form filling, PDF portfolios management.
+
+Html to Pdf Converter Features: Convert any web page to pdf, Convert any raw html string to pdf, Set pdf page settings (page size, page orientation, page margins), Resize content during conversion to fit the pdf page, Set pdf document properties, Set pdf viewer preferences, Set pdf security (passwords, permissions), Convert multiple web pages into the same pdf document, Set conversion delay and web page navigation timeout, Custom headers and footers, Support for html in headers and footers, Possibility to have different headers and footers for specific pages, Automatic and manual page breaks and many more.</description>
+    <summary>SelectPdf for .NET is a powerful PDF library that enables software developers to create, read and modify PDF files. It also includes a state of the art html to pdf converter.</summary>
+    <language>en-US</language>
+    <tags>pdf converter html2pdf htmltopdf html library html-to-pdf pdf-converter html-to-pdf-converter sdk html-to-pdf-net pdf-library pdf-sdk html-to-pdf-converter-net pdf-to-text pdf-to-image pdf-to-png pdf-to-jpeg pdf-to-bmp pdf-to-tiff html-to-pdf-azure pdf-library-azure azure html-to-pdf-c# html-to-pdf-vb.net</tags>
+  </metadata>
+</package>
